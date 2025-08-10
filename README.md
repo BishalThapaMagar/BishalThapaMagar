@@ -12,16 +12,16 @@
 
 ## 🙋‍♂️ About me
 
-<!--![profile view count](https://komarev.com/ghpvc/?username=BishalThapaMagar)-->
+![profile view count](https://komarev.com/ghpvc/?username=BishalThapaMagar)
 
 I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine Learning in CMRIT, Banglore, India. I am able to work with web applications using React, Django, PHP and core level CSS and JS. When I'm not working on my skills I can be found relaxing by reading fantasy novels, playing volleyball, cooking, running till I am dizzy and listening to peaceful songs.
 
 
 ## 🔭 I’m currently working on 
 
-[<img src="https://cdn-icons-png.flaticon.com/512/2920/2920320.png" height="20px" style="margin-right:5px" /> studyverse-mate-finder-ai](https://github.com/AnupDangi/studyverse-mate-finder-ai)
+[<img src="https://cdn-icons-png.flaticon.com/512/2920/2920320.png" height="20px" style="margin-right:5px" /> Studyverse-mate-finder-ai](https://github.com/AnupDangi/studyverse-mate-finder-ai)
 
-[<img src="https://github.com/BishalThapaMagar/BishalThapaMagar/blob/main/images/tailor_mom.png" height="20px" style="border-radius:20px;margin-right:5px" />Tailor_and_Training_Center_Mgmt_System_for_Mom](https://github.com/BishalThapaMagar/Tailor_and_Training_Center_Mgmt_System_for_Mom)
+[<img src="https://github.com/BishalThapaMagar/BishalThapaMagar/blob/main/images/tailor_mom.png" height="20px" style="border-radius:20px;margin-right:5px" /> Tailor_and_Training_Center_Mgmt_System_for_Mom](https://github.com/BishalThapaMagar/Tailor_and_Training_Center_Mgmt_System_for_Mom)
 
 
 
