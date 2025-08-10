@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About me
 
-![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
+<!-- ![profile view count](https://komarev.com/ghpvc/?username=bobbyg603) -->
 
 I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
 
-## 🔭 I'm currently working on
+## 🔭 I’m currently working on 
 
 [<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
 [<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently learning 
 
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
@@ -53,8 +53,8 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 
 -->
 ## 📫 How to reach me
-
-[<img src="assets/envelope.png" height="50px">](mailto:bima22aiml@cmrit.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalthapamagar2000@gmail.com)
+<!-- [<img src="assets/envelope.png" height="50px">](mailto:bima22aiml@cmrit.ac.in) -->
 <!--
 [<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
 [<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
