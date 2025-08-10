@@ -17,10 +17,18 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 
 ## 🔭 I’m currently working on 
 
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
+[<img src="assets/bugsplat-slingshot-small.png" alt="studyverse-mate-finder-ai" height="150px">](https://github.com/AnupDangi/studyverse-mate-finder-ai)
 
 ## 🌱 I’m currently learning 
 
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+
+🔨 I can work with
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+
