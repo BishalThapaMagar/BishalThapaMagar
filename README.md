@@ -21,7 +21,7 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2920/2920320.png" height="20px" style="vertical-align:middle;" /> studyverse-mate-finder-ai](https://github.com/AnupDangi/studyverse-mate-finder-ai)
 
-[<img src="https://github.com/BishalThapaMagar/BishalThapaMagar/blob/main/images/tailor_mom.png" height="20px" style="vertical-align:middle;" />Tailor_and_Training_Center_Mgmt_System_for_Mom](https://github.com/BishalThapaMagar/Tailor_and_Training_Center_Mgmt_System_for_Mom)
+[<img src="https://github.com/BishalThapaMagar/BishalThapaMagar/blob/main/images/tailor_mom.png" height="20px" style="vertical-align:middle;border-radius:8px" />Tailor_and_Training_Center_Mgmt_System_for_Mom](https://github.com/BishalThapaMagar/Tailor_and_Training_Center_Mgmt_System_for_Mom)
 
 
 
