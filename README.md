@@ -62,7 +62,7 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 
 <table>
   <tr>
-    <td align="right"><strong>Languages</strong></td>
+    <td align="center"><strong>Languages</strong></td>
     <td>: 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" style="margin-right:10px;" />
@@ -73,14 +73,14 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
     </td>
   </tr>
   <tr>
-    <td align="right"><strong>Frameworks</strong></td>
+    <td align="center"><strong>Frameworks</strong></td>
     <td>: 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />
     </td>
   </tr>
   <tr>
-    <td align="right"><strong>Libraries</strong></td>
+    <td align="center"><strong>Libraries</strong></td>
     <td>: 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="margin-right:10px;" />
@@ -89,7 +89,7 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
     </td>
   </tr>
   <tr>
-    <td align="right"><strong>Tools</strong></td>
+    <td align="center"><strong>Tools</strong></td>
     <td>: 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
     </td>
