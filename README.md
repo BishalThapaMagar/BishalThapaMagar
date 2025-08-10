@@ -56,9 +56,11 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 [<img src="assets/georgipeltekov.png" height="50px">](https://github.com/georgipeltekov/ngx-file-drop/pulls?q=author%3Abobbyg603)
 
 -->
+
+<!--
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalthapamagar2000@gmail.com)
-
+-->
 
 <!-- [<img src="assets/envelope.png" height="50px">](mailto:bima22aiml@cmrit.ac.in) -->
 <!--
