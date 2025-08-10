@@ -36,7 +36,7 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 
-## 🔨 I've contributed to
+<!-- ## 🔨 I've contributed to
 
 [<img src="assets/bugsplat.png" height="50px">](https://github.com/BugSplat-Git)
 [<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pulls?q=author%3Abobbyg603+)
@@ -51,8 +51,11 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 [<img src="assets/hanzla.png" height="50px">](https://github.com/1hanzla100/developer-portfolio/pulls?q=author%3Abobbyg603)
 [<img src="assets/georgipeltekov.png" height="50px">](https://github.com/georgipeltekov/ngx-file-drop/pulls?q=author%3Abobbyg603)
 
+-->
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:bobbyg603@pm.me)
+[<img src="assets/envelope.png" height="50px">](mailto:bima22aiml@cmrit.ac.in)
+<!--
 [<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
 [<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
+-->
