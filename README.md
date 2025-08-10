@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, my name is Bishal Thapa Magar
 
-[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/bobbyg603))
+[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/bobbyg603)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UxNXrBukjZ)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bobbyg603)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
@@ -53,7 +53,8 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 
 -->
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishalthapamagar2000@gmail.com)
+[![email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:bishalthapamagar2000@gmail.com)
+
 <!-- [<img src="assets/envelope.png" height="50px">](mailto:bima22aiml@cmrit.ac.in) -->
 <!--
 [<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
