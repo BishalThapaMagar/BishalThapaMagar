@@ -9,22 +9,25 @@
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617644526886060062)
 -->
 
+
 ## 🙋‍♂️ About me
 
 <!-- ![profile view count](https://komarev.com/ghpvc/?username=bobbyg603) -->
-
 I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine Learning in CMRIT, Banglore, India. I am able to work with web applications using React, Django, PHP and core level CSS and JS. When I'm not working on my skills I can be found relaxing by reading fantasy novels, playing volleyball, cooking, running till I am dizzy and listening to peaceful songs.
+
 
 ## 🔭 I’m currently working on 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2920/2920320.png" height="30px" style="vertical-align:middle;" /> studyverse-mate-finder-ai](https://github.com/AnupDangi/studyverse-mate-finder-ai)
+
 
 ## 🌱 I’m currently learning 
 
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 
-🔨 I can work with
+
+## 🔨 I can work with
 
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" style="margin-right:10px;" />
