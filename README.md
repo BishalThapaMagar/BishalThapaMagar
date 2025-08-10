@@ -17,7 +17,7 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 
 ## 🔭 I’m currently working on 
 
-[![Project Icon](https://cdn-icons-png.flaticon.com/512/2920/2920320.png)](https://github.com/AnupDangi/studyverse-mate-finder-ai)
+[<img src="https://cdn-icons-png.flaticon.com/512/2920/2920320.png" height="30px" style="vertical-align:middle;" /> studyverse-mate-finder-ai](https://github.com/AnupDangi/studyverse-mate-finder-ai)
 
 ## 🌱 I’m currently learning 
 
