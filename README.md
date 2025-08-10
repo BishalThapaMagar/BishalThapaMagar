@@ -25,18 +25,18 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 
 🔨 I can work with
-![C](https://skillicons.dev/icons?i=c)  
-![C#](https://skillicons.dev/icons?i=csharp)  
-![Java](https://skillicons.dev/icons?i=java)  
-![Python](https://skillicons.dev/icons?i=python)  
-![PHP](https://skillicons.dev/icons?i=php)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![.NET](https://skillicons.dev/icons?i=dotnet)  
-![React](https://skillicons.dev/icons?i=react)  
-![Django](https://skillicons.dev/icons?i=django)  
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)  
-![Pytorch](https://skillicons.dev/icons?i=pytorch)  
-![Pandas](https://skillicons.dev/icons?i=pandas)  
-![Numpy](https://skillicons.dev/icons?i=numpy)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="150" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="150" />
