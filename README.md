@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About me
 
-![profile view count](https://komarev.com/ghpvc/?username=BishalThapaMagar)
+<!--![profile view count](https://komarev.com/ghpvc/?username=BishalThapaMagar)-->
 
 I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine Learning in CMRIT, Banglore, India. I am able to work with web applications using React, Django, PHP and core level CSS and JS. When I'm not working on my skills I can be found relaxing by reading fantasy novels, playing volleyball, cooking, running till I am dizzy and listening to peaceful songs.
 
@@ -25,6 +25,7 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 
 
 
+
 ## 🌱 I’m currently learning 
 
 <p float="left">
@@ -33,8 +34,8 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 </p>
 
 
-## 🔨 I can work with
 
+## 🔨 Can work well on
 
 <table>
   <tr>
