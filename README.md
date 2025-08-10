@@ -41,13 +41,13 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
 </p>
 
-<p float="left" style="margin-top: 10px;">
+<p float="left" style="margin-top: 0px;">
   Frameworks : 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" style="margin-right:10px;" />
 </p>
 
-<p float="left" style="margin-top: 10px;">
+<p float="left" style="margin-top: 0px;">
   Libraries : 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="margin-right:10px;" />
@@ -55,7 +55,7 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" />
 </p>
 
-<p float="left" style="margin-top: 10px;">
+<p float="left" style="margin-top: 0px;">
   Tools : 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
 </p>
