@@ -53,7 +53,8 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 
 -->
 ## 📫 How to reach me
-[![email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:bishalthapamagar2000@gmail.com)
+[📧](mailto:bishalthapamagar2000@gmail.com)
+
 
 <!-- [<img src="assets/envelope.png" height="50px">](mailto:bima22aiml@cmrit.ac.in) -->
 <!--
