@@ -31,39 +31,11 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
 
 ## 🔨 I can work with
 
-<p float="left">
-  Languages : 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-</p>
-
-<p float="left" style="margin-top: 0px;">
-  Frameworks : 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" style="margin-right:10px;" />
-</p>
-
-<p float="left" style="margin-top: 0px;">
-  Libraries : 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" />
-</p>
-
-<p float="left" style="margin-top: 0px;">
-  Tools : 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-</p>
 
 <table>
   <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>: 
+    <td align="left"><strong>Languages</strong></td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" style="margin-right:10px;" />
@@ -73,15 +45,15 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frameworks</strong></td>
-    <td>: 
+    <td align="left"><strong>Frameworks</strong></td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Libraries</strong></td>
-    <td>: 
+    <td align="left"><strong>Libraries</strong></td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="margin-right:10px;" />
@@ -89,8 +61,8 @@ I'm from the Nepal, currently studying B.E. Artificial Intelligence and Machine 
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>: 
+    <td align="left"><strong>Tools</strong></td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
     </td>
   </tr>
